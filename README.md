@@ -124,5 +124,3 @@ npx inngest-cli@latest dev
 ```
 
 Open → [http://localhost:3000](http://localhost:3000)
-
-⚡ I improved **visual hierarchy**, badge consistency, spacing, and readability.  
